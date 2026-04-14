@@ -1,0 +1,4 @@
+[+] BEST PRACTICE: Split long or complex RUN statements on multiple lines separated with backslashes to make your Dockerfile more readable, understandable, and maintainable.
+[+] BEST PRACTICE: Avoid installing extra or unnecessary packages (Ex: use --no-install-recommends and --no-install-suggests with apt-get).
+[+] BEST PRACTICE: Always combine RUN apt-get update with apt-get install -y in the same RUN statement. 
+[+] BEST PRACTICE: Carefully read the documentation to take the maximum advantage from this command.

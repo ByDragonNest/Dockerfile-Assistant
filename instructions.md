@@ -1,0 +1,18 @@
+- **ADD**: Add local or remote files and directories.
+- **ARG**: Use build-time variables.
+- **CMD**: Specify default commands.
+- **COPY**: Copy files and directories.
+- **ENTRYPOINT**: Specify default executable.
+- **ENV**: Set environment variables.
+- **EXPOSE**: Describe which ports your application is listening on.
+- **FROM**:	Create a new build stage from a base image. [+] BEST PRACTICE: Multi-stage let you have a better optimization of your Dockerfile
+- **HEALTHCHECK**: Check a container's health on startup. [+] BEST PRACTICE.
+- **LABEL**: Add metadata to an image. [+] BEST PRACTICE: Useful for better comprehension.
+- **MAINTAINER**: Specify the author of an image. [!] WARNING: Deprecated.
+- **ONBUILD**: Specify instructions for when the image is used in a build.
+- **RUN**: Execute build commands.
+- **SHELL**: Set the default shell of an image.
+- **STOPSIGNAL**: Specify the system call signal for exiting a container.
+- **USER**: Set user and group ID. [!] WARNING: Must be set to avoid that the container run as root.
+- **VOLUME**: Create volume mounts [+] BEST PRACTICE: Use VOLUME for any combination of mutable or user-serviceable parts of your image.
+- **WORKDIR**: Change working directory.

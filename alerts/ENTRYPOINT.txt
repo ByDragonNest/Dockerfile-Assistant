@@ -1,0 +1,1 @@
+[+] BEST PRACTICE: The best use for ENTRYPOINT is to set the image's main command, allowing that image to be run as though it was that command, and then use CMD as the default flags.

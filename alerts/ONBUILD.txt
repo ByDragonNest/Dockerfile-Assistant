@@ -1,0 +1,3 @@
+[?] REMINDER: Chaining ONBUILD instructions using ONBUILD ONBUILD isn't allowed.
+[?] REMINDER: The ONBUILD instruction may not trigger FROM or MAINTAINER instructions.
+[?] REMINDER: ONBUILD COPY --from is not supported.

@@ -1,0 +1,4 @@
+[!] WARNING: ADD should be avoided in favor of COPY except for two cases:
+    - Download a file from a URL;
+    - Automatically extract a archive file.
+

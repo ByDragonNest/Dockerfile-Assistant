@@ -1,0 +1,2 @@
+[?] REMINDER: The SHELL instruction can appear multiple times.
+[!] WARNING: Each SHELL instruction overrides all previous SHELL instructions, and affects all subsequent instructions.

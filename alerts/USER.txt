@@ -1,0 +1,3 @@
+[?] REMINDER: Note that when specifying a group for the user, the user will have only the specified group membership.
+Any other configured group memberships will be ignored.
+[!] WARNING: When the user doesn't have a primary group then the image (or the next instructions) will be run with the root group.
