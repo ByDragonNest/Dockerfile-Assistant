@@ -84,7 +84,8 @@ Scan this image for known vulnerabilities before proceeding (y/n)? y
     Critical:   0
     High:       1
     …
-```
+
+---
 
 ## Origin
  
