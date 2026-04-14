@@ -68,6 +68,8 @@ python main.py --scan-only
 ### Example session
 
 ```
+
+```bash
 ╔══════════════════════════════════════════╗
 ║       Welcome to Dockerfile Assistant    ║
 ║  Guided creation + Docker security scans ║
@@ -84,6 +86,7 @@ Scan this image for known vulnerabilities before proceeding (y/n)? y
     Critical:   0
     High:       1
     …
+```
 
 ---
 
